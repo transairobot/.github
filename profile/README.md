@@ -1,6 +1,11 @@
 ## Hi there 👋
 We are a startup specializing in affordable, multifunctional home robots and robot operating systems.
+Our Vision:
 
++ Develop robotic tools to efficiently accomplish diverse tasks.
++ Shift computation to the cloud—robots only need minimal onboard processing.
++ Enable developers to create robot applications and host them on our cloud platform, allowing users to deploy apps with one click.
++ Keep hardware costs for mobile robotic arms under $2,000.
 <!--
 
 **Here are some ideas to get you started:**
